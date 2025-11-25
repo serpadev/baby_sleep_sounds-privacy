@@ -7,7 +7,7 @@
 Baby Sleep Sounds ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how our mobile application handles information.
 
 **Developer:** SerpasDev
-**Contact:** [Your email address]
+**Contact:** serpadvlp@gmail.com
 **App:** Baby Sleep Sounds
 
 ## Information We Collect
@@ -188,7 +188,7 @@ However, no method of electronic storage is 100% secure. Use the app at your own
 If you have questions about this Privacy Policy or our data practices:
 
 **Developer:** SerpasDev
-**Email:** [Your email address]
+**Email:** serpadvlp@gmail.com
 **Website:** https://github.com/serpadev/baby_sleep_sounds-privacy
 
 We will respond to privacy inquiries within 30 days.
